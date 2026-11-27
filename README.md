@@ -1,2 +1,5 @@
 # relay-pipe
-Lightweight Solidity utilities and helpers (relay-pipe)
+
+Lightweight `Solidity` utilities maintained by @chronosnodehq.
+
+- Focus: Postgres, migrations, and backups that actually restore.
